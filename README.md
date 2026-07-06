@@ -24,8 +24,8 @@ $$ |  $$ |\$$$$$$$ |$$$$$$$  |$$ |  $$ |$$ |$$ |
 
 ```python
 class Hashir:
-    name     = "Hashir 🛠️"
-    alias    = "[Hashirx] 🛠️"
+    name     = "Hashir"
+    alias    = "[Hashirx]"
     location = "Punjab, Pakistan 🇵🇰"
 
     currently_building = [
