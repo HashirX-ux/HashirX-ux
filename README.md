@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**HashirX-ux/HashirX-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+ _|_|_|    _|_|_|      _|_|      _|_|_|    _|_|_|    _|_|    _|        _|_|_|
+ _|    _|  _|    _|  _|    _|  _|        _|        _|    _|  _|          _|
+ _|_|_|    _|_|_|    _|    _|  _|        _|        _|    _|  _|          _|
+ _|    _|  _|    _|  _|    _|  _|        _|        _|    _|  _|          _|
+    _|_|_|    _|    _|    _|_|      _|_|_|    _|_|_|    _|_|    _|_|_|_|  _|_|_|  :broccoli:
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**`fussdeek-del`** · AI Engineer · Hardware Builder · Giga Chad ·
+
+[![GitHub followers](https://img.shields.io/github/followers/HashirX-ux?style=for-the-badge&color=00ff41&labelColor=0d1117&logo=github)](https://github.com/HashirX-ux)
+[![Profile views](https://komarev.com/ghpvc/?username=HashirX-ux&style=for-the-badge&color=00ff41&labelColor=0d1117)](https://github.com/HashirX-ux)
+
+</div>
