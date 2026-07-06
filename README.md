@@ -48,7 +48,7 @@ class Hashir:
 ```
 ### `ls /projects --pinned`
 
-🟢 **[Nexus](https://github.com/Hashirx/Nexus)**
+<img src="https://api.iconify.design/octicon:link-16.svg" width="14"/> 🟢 **[Nexus](https://github.com/Hashirx/Nexus)**
 > Wireless 3x4 macropad built to optimize your workflow. Powered by a nice!nano for Bluetooth LE, with 12 hot-swap keys under per-key RGB, a tactile EC11 rotary encoder, and an OLED screen for precise macro control. Runs ZMK firmware for seamless multi-device pairing anywhere you go.
 
 ### `cat /etc/currently`
