@@ -55,11 +55,11 @@ class Hashir:
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=HashirX-ux)](https://github.com/stats-organization/github-stats-extended)
+[![HashirX-ux's GitHub stats](https://github-stats-extended.vercel.app/api?username=HashirX-ux&show_icons=true&theme=radical)](https://github.com/stats-organization/github-stats-extended)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=HashirX-ux&theme=chartreuse-dark&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9)
 
-![Hack Time Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=32292&api_domain=hackatime.hackclub.com&theme=gotham&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+![Hack Time Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=32369&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 </div>
 
 ---
