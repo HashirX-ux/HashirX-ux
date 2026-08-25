@@ -51,6 +51,21 @@ class Hashir:
 <img src="https://api.iconify.design/octicon:link-16.svg" width="14"/> 🟢 **[Nexus](https://github.com/Hashirx/Nexus)**
 > Wireless 3x4 macropad built to optimize your workflow. Powered by a nice!nano for Bluetooth LE, with 12 hot-swap keys under per-key RGB, a tactile EC11 rotary encoder, and an OLED screen for precise macro control. Runs ZMK firmware for seamless multi-device pairing anywhere you go.
 
+## `> top --github-stats`
+
+<div align="center">
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=HashirX-ux)](https://github.com/stats-organization/github-stats-extended)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HashirX-ux&theme=chartreuse-dark&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9)
+
+![Hack Time Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=32292&api_domain=hackatime.hackclub.com&theme=gotham&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+</div>
+
+---
+
+
+
 ### `cat /etc/currently`
 
 ```
