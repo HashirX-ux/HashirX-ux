@@ -60,6 +60,7 @@ class Hashir:
 ![GitHub Streak](https://streak-stats.demolab.com?user=HashirX-ux&theme=chartreuse-dark&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=ff6b35&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9)
 
 ![Hack Time Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=32369&api_domain=hackatime.hackclub.com&theme=radical&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
+
 </div>
 
 ---
