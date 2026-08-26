@@ -1,5 +1,21 @@
 <div align="center">
-<h1>Hashir</h1>
+
+```    
+ /$$   /$$                     /$$       /$$          
+| $$  | $$                    | $$      |__/          
+| $$  | $$  /$$$$$$   /$$$$$$$| $$$$$$$  /$$  /$$$$$$ 
+| $$$$$$$$ |____  $$ /$$_____/| $$__  $$| $$ /$$__  $$
+| $$__  $$  /$$$$$$$|  $$$$$$ | $$  \ $$| $$| $$  \__/
+| $$  | $$ /$$__  $$ \____  $$| $$  | $$| $$| $$      
+| $$  | $$|  $$$$$$$ /$$$$$$$/| $$  | $$| $$| $$      
+|__/  |__/ \_______/|_______/ |__/  |__/|__/|__/      
+                                                      
+                                                      
+                                                      
+```
+
+
+    
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=20&duration=2800&pause=1000&color=D4B483&center=true&vCenter=true&width=540&height=40&lines=AI+Engineer+%C2%B7+Hardware+Builder;PCB+design+%C2%B7+firmware+%C2%B7+IoT;Building+in+public+from+Pakistan;Till+death%2C+all+defeat+is+psychological.#gh-dark-mode-only" alt="AI Engineer · Hardware Builder" />
 </p>
