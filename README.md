@@ -90,18 +90,13 @@ class Hashir:
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=HashirX-ux&show_icons=true&hide_border=true&include_all_commits=true&bg_color=140e12&title_color=d4b483&icon_color=c47880&text_color=efe6d8&ring_color=c47880#gh-dark-mode-only" alt="GitHub stats" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HashirX-ux&layout=compact&hide_border=true&langs_count=8&bg_color=140e12&title_color=d4b483&text_color=efe6d8#gh-dark-mode-only" alt="Top languages" />
-<img src="https://github-stats-extended.vercel.app/api?username=HashirX-ux&show_icons=true&hide_border=true&include_all_commits=true&bg_color=faf6f1&title_color=7a3040&icon_color=c47880&text_color=3d2c2e&ring_color=c47880#gh-light-mode-only" alt="GitHub stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HashirX-ux&layout=compact&hide_border=true&langs_count=8&bg_color=faf6f1&title_color=7a3040&text_color=3d2c2e#gh-light-mode-only" alt="Top languages" />
-</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=HashirX-ux&background=140E12&border=7A3040&stroke=C47880&ring=D4B483&fire=C47880&currStreakNum=D4B483&sideNums=EFE6D8&currStreakLabel=D4B483&sideLabels=EFE6D8&dates=A89890&hide_border=true#gh-dark-mode-only" alt="GitHub streak" />
-<img src="https://streak-stats.demolab.com/?user=HashirX-ux&background=FAF6F1&border=E8D5C4&stroke=C47880&ring=7A3040&fire=C47880&currStreakNum=7A3040&sideNums=3D2C2E&currStreakLabel=7A3040&sideLabels=5C4A46&dates=8A7A72&hide_border=true#gh-light-mode-only" alt="GitHub streak" />
 </div>
 
 <div align="center">
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=32369&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&hide_border=true&bg_color=140e12&title_color=d4b483&text_color=efe6d8&icon_color=c47880&langs_count=8#gh-dark-mode-only" alt="Hackatime stats" />
-<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=32369&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&hide_border=true&bg_color=faf6f1&title_color=7a3040&text_color=3d2c2e&icon_color=c47880&langs_count=8#gh-light-mode-only" alt="Hackatime stats" />
 </div>
 
 ---
