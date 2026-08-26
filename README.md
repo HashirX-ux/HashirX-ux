@@ -62,11 +62,11 @@ class Hashir:
 
 | status | project | stack | notes |
 | :----- | :------ | :---- | :---- |
-| `wip` | **[Nexus](https://github.com/HashirX-ux/Nexus)** | ZMK · nice!nano · KiCad | Wireless 3×4 macropad — hot-swap, per-key RGB, EC11, OLED, BLE |
-| `wip` | **[Apex](https://github.com/HashirX-ux/Apex)** | Wireless firmware | Keyboard built for productivity |
-| `live` | **[Pacman](https://github.com/HashirX-ux/Pacman)** | HTML · CSS · JS | Browser Pac-Man, zero libraries |
-| `live` | **[Petro](https://github.com/HashirX-ux/Petro)** | HTML · CSS · JS | AI image generator in the browser |
-| `live` | **[Portfolio](https://hashirx-ux.github.io/)** | CSS | Personal site — [source](https://github.com/HashirX-ux/HashirX-ux.github.io) |
+| 🟢 | **[Nexus](https://github.com/HashirX-ux/Nexus)** | ZMK · nice!nano · KiCad | Wireless 3×4 macropad — hot-swap, per-key RGB, EC11, OLED, BLE |
+| 🟡 | **[Apex](https://github.com/HashirX-ux/Apex)** | Wireless firmware | Keyboard built for productivity |
+| 🟢 | **[Pacman](https://github.com/HashirX-ux/Pacman)** | HTML · CSS · JS | Browser Pac-Man, zero libraries |
+| 🟢 | **[Petro](https://github.com/HashirX-ux/Petro)** | HTML · CSS · JS | AI image generator in the browser |
+| 🟢 | **[Portfolio](https://hashirx-ux.github.io/)** | CSS | Personal site — [source](https://github.com/HashirX-ux/HashirX-ux.github.io) |
 
 ---
 
