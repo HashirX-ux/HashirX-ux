@@ -56,7 +56,7 @@ class Hashir:
 
 ---
 
-### `stack`
+### `Stack`
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,linux,git,github,vscode,arduino,raspberrypi&theme=dark#gh-dark-mode-only" alt="C, C++, Python, JavaScript, HTML, CSS, Linux, Git, GitHub, VS Code, Arduino, Raspberry Pi" />
@@ -73,7 +73,7 @@ class Hashir:
 
 ---
 
-### `projects`
+### `Projects`
 
 | status | project | stack | notes |
 | :----- | :------ | :---- | :---- |
@@ -85,15 +85,12 @@ class Hashir:
 
 ---
 
-### `stats`
+### `Stats`
 
 <div align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=HashirX-ux&show_icons=true&hide_border=true&include_all_commits=true&bg_color=140e12&title_color=d4b483&icon_color=c47880&text_color=efe6d8&ring_color=c47880#gh-dark-mode-only" alt="GitHub stats" />
 </div>
   
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HashirX-ux&layout=compact&hide_border=true&langs_count=8&bg_color=140e12&title_color=d4b483&text_color=efe6d8#gh-dark-mode-only" alt="Top languages" />
-</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=HashirX-ux&background=140E12&border=7A3040&stroke=C47880&ring=D4B483&fire=C47880&currStreakNum=D4B483&sideNums=EFE6D8&currStreakLabel=D4B483&sideLabels=EFE6D8&dates=A89890&hide_border=true#gh-dark-mode-only" alt="GitHub streak" />
@@ -103,6 +100,12 @@ class Hashir:
 <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=32369&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&hide_border=true&bg_color=140e12&title_color=d4b483&text_color=efe6d8&icon_color=c47880&langs_count=8#gh-dark-mode-only" alt="Hackatime stats" />
 </div>
 
+---
+
+### `Top-Languages`
+<div align="center">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HashirX-ux&layout=compact&hide_border=true&langs_count=8&bg_color=140e12&title_color=d4b483&text_color=efe6d8#gh-dark-mode-only" alt="Top languages" />
+</div>
 ---
 
 ### `now`
